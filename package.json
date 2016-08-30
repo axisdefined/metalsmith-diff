@@ -1,0 +1,22 @@
+{
+  "name": "metalsmith-diff",
+  "version": "1.0.0",
+  "description": "A diffing plugin for Metalsmith.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-register"
+  },
+  "babel": {
+    "presets": [
+      "es2015",
+      "stage-0"
+    ]
+  },
+  "keywords": [],
+  "devDependencies": {
+    "babel-preset-es2015": "6.14.0",
+    "babel-preset-stage-0": "6.5.0",
+    "chai": "3.5.0",
+    "metalsmith": "2.2.0"
+  }
+}

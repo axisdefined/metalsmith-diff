@@ -1,2 +1,3 @@
 # metalsmith-diff
-A diffing plugin for Metalsmith.
+
+> A diffing plugin for Metalsmith.
